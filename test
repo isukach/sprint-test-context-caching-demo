@@ -1,0 +1,11 @@
+SpringJUnit4ClassRunner constructor called with [class ...SimpleContextCreationTest]
+Instantiating CacheAwareContextLoaderDelegate from class [...DefaultCacheAwareContextLoaderDelegate]
+Delegating to AnnotationConfigContextLoader to load context from [MergedContextConfiguration@13c27452 ...]].
+Loading ApplicationContext for merged context configuration [[MergedContextConfiguration@13c27452 ...]].
+Activating profiles []
+Registering annotated classes: {}
+Refreshing org.springframework.context.support.GenericApplicationContext@43a0cee9
+Storing ApplicationContext in cache under key [[MergedContextConfiguration@13c27452 ...]]
+Application context successfully created!
+Retrieved ApplicationContext from cache with key [[MergedContextConfiguration@13c27452 ...]]
+Closing org.springframework.context.support.GenericApplicationContext@43a0cee9
